@@ -1,33 +1,33 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Marketing Chair",
+            "subtitle": "ASA",
+            "workType": "Leadership",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Led board and executive committee meetings, guiding the adoption of strategic action plans.",
+                "Spearheaded innovative ideas and events across marketing and event management."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "04/2022 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Shift Manager",
+            "subtitle": "Vinny's Pizza",
+            "workType": "Part-Time",
             "workDescription": [
-                "Worked on abc."
+                "Innovated new shift scheduling procedures with an app, resulting in 25% increased employee utilization.",
+                "Managed high-volume customer interactions, fostering a stress-free team environment."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "01/2019 – 05/2022"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Tutor",
+            "subtitle": "Muslim American Society",
+            "workType": "Volunteer",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Developed collaborative learning systems for students of diverse ages, promoting timely project completion through various learning approaches."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "09/2016 – 01/2019"
         }
     ]
 }
